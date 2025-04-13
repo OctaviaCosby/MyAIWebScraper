@@ -1,0 +1,8 @@
+beautifulsoup4
+selenium
+driver
+pandas
+numpy
+sys
+requests
+time
