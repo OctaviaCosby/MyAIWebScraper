@@ -3,10 +3,13 @@
 Hello, my name is Octavia and I am currently a student at Florida Atlantic University. In this, I programmed an efficient webscraping tool using all the libraries listed in the requirements.txt file. The webpage being scrapped is https://stackoverflow.com/users/22656/jon-skeet?tab=questions. While Google Gemini was used for some debugging while installing drivers and some structing, all additional features and coding was done by me.
 
 
+Language:
+- Python
+
+
 Platforms used to create this webscraper:
 - GoogleColab
 - Gemini
-
 
 Additional resources used to create this webscraper:
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
